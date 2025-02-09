@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Jean Clyde C. Egmilan
 
+# An inspiring Software Developer
 <!--
 **ClydeZzz16/ClydeZzz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
