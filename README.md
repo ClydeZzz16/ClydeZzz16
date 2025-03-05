@@ -7,13 +7,14 @@
 | 🎉 **Hobbies:** | 🕹️ Games | 🧩 Chess | 📚 Novels | 📖 Manga | 🎥 Anime | 💤 Sleeping | 🚴‍♂️ Cycling | 🏃‍♂️ Jogging |
 |---|---|---|---|---|---|---|---|---|
 
-<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 50px; margin-top: 20px;">
+<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 30px; margin-top: 30px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ClydeZzz16&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" style="height: 250px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ClydeZzz16&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" style="height: 300px;"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClydeZzz16&layout=compact&theme=radical" alt="Top Languages" width="45%" style="height: 250px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClydeZzz16&layout=compact&theme=radical" alt="Top Languages" width="45%" style="height: 300px;"/>
 
 </div>
+
 
 ## Connect with me:
 <p align="left">
