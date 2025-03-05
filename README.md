@@ -9,9 +9,9 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 60px; margin-top: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ClydeZzz16&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="220px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ClydeZzz16&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="200px"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClydeZzz16&layout=compact&theme=radical" alt="Top Languages" width="45%" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClydeZzz16&layout=compact&theme=radical" alt="Top Languages" width="45%" height="200px"/>
 
 </div>
 
